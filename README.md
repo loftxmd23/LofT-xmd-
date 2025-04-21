@@ -16,11 +16,8 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
   
-[![Video Title]
 
 https://github.com/user-attachments/assets/ea94ec46-a932-4a02-af88-bfbdabf1de92
-
-)
 
 
 
