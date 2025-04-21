@@ -9,35 +9,7 @@
 
 ---
 
-```yaml
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"  # Inaendesha kila saa 6
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate GitHub contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: github.repository_owner 
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN:{{ secrets.GITHUB_TOKEN }}
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 
 
