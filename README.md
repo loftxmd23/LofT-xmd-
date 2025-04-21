@@ -57,12 +57,26 @@
 
 <h3 align="center">A passionate frontend developer from Tanzania🇹🇿</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>mixx-yass..255778018545
 
-<h3 align="left">Support:</h3>
-<p><amixx-by-yass..255778018545 href="https://www.buymeacoffee.com/Loft Coutinho "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Loft Coutinho " /></a><a href="https://ko-fi.com/Loft Coutinho "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Loft Coutinho " /></a></p><br><br>loftxmd
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 starts
+![](https://github-readme-stats.vercel.app/api?username=Loftxmd23 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Loftxmd23 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loftxmd23 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![](https://github-contributor-stats.vercel.app/api?username=Loftxmd &limit=5&theme=vue&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Loftxmd23 &icon=9&color=10)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Loft xmd 🚀) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->loft xmd 🚀 
+
 
 
 
