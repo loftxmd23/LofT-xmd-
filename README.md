@@ -57,7 +57,7 @@
 
 <h3 align="center">A passionate frontend developer from Tanzania🇹🇿</h3>
 
-[![Watch the video](https://youtu.be/-HiNe0fM4gM?si=cjeKFOLt-2Vt-Zmh)
+[![Watch the video]https://youtu.be/-HiNe0fM4gM?si=cjeKFOLt-2Vt-Zmh
 
 
 
