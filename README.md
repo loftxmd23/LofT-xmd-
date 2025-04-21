@@ -1,5 +1,6 @@
 # ![LOFT-XMD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+HELOO😁!+WELCOME+TO+LOFT-XMD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
-![IMG-20250326-WA0015](https://github.com/user-attachments/assets/e552ff07-525a-4962-803b-e73ec708e3c2)
+![IMG-20250127-WA0092](https://github.com/user-attachments/assets/9c1677a8-edc8-4b98-ad0d-c3c15bed0180)
+
 
 ---
 
