@@ -57,7 +57,10 @@
 
 <h3 align="center">A passionate frontend developer from Tanzania🇹🇿</h3>
 
-[![Watch the video]https://github.com/user-attachments/assets/e527e2f0-c5b6-42d0-a410-c0aa77b62d42
+
+
+https://github.com/user-attachments/assets/9b589ff6-7625-4fb8-849a-01953deebb4e
+
 
 
 
