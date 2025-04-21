@@ -58,6 +58,7 @@
 <h3 align="center">A passionate frontend developer from Tanzania🇹🇿</h3>
 
 
+[![Tap To Open Repo](https://i.imgur.com/1DHOg3Z.gif)](https://github.com/abdallahsalimjuma/Dullah_Md )
 
 
 
