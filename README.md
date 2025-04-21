@@ -11,7 +11,7 @@
 
 
 
-![GitHub Snake](https://raw.githubusercontent.com/<jina_la_mtumiaji>/<jina_la_repository>/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/<loft-xmd>/<loftxmd23>/output/github-contribution-grid-snake.svg)
 
 
 
