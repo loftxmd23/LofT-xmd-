@@ -11,6 +11,11 @@
 
 
 
+![GitHub Snake](https://raw.githubusercontent.com/<jina_la_mtumiaji>/<jina_la_repository>/output/github-contribution-grid-snake.svg)
+
+
+
+
 
 
 
