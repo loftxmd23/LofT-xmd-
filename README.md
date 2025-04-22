@@ -29,7 +29,7 @@
 
 ## 🌟 **SESSION LINKS** 🌟
 ### 🔷 SHORT SESSIONS
-![SESSION 1](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_1-8A2BE2?style=for-the-badge&logo=heroku)![SESSION 2](https://img.shields.io/badge/  _𝗦𝗘𝗦𝗦𝗜𝗢𝗡_2-FF69B4?style=for-the-badge&logo=heroku)
+![SESSION 1](https://img.shields.io/badge/_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_1-8A2BE2?style=for-the-badge&logo=heroku)![SESSION 2](https://img.shields.io/badge/[_𝗦𝗘𝗦𝗦𝗜𝗢𝗡_2-FF69B4?style=for-the-badge&logo=heroku)
 
 ---
 
