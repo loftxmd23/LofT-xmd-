@@ -6,8 +6,9 @@
 # ![LOFT-XMD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+HELLOO😁!+WELCOME+TO+LOFT-XMD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
 
 
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{abdallahsalimjuma}/count.svg" alt="Loft xmd :: Visitor's Count" /></p>
