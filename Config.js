@@ -9,25 +9,25 @@ import moment from 'moment-timezone'
 import dotenv from 'dotenv'
 
 
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumber = [''] //Example: +923092668108
+global.botNumber = [''] //Example: +255778018545
 global.confirmCode = "" 
 
 
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 
 
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923092668108'] 
-global.prems = ['923092668108']
-global.allowed = ['923092668108']
+//🚀global.pairingNumber = "" //put your bot number here🚀
+global.mods = ['255778018545'] 
+global.prems = ['255778018545']
+global.allowed = ['255778018545']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -40,17 +40,17 @@ global.baileys = '@whiskeysockets/baileys'
 global.apis = 'https://delirius-apiofc.vercel.app'
 global.openai_key = 'sk-...OzYy' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
 global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 
 
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 //CONFIG VARS. Do not touch them⚠️
 
   global.vidcap = process.env.DL_MSG
 
 
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 global.cheerio = cheerio
 global.fs = fs
@@ -60,7 +60,7 @@ global.moment = moment
 
 
 
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 // APIS
 global.APIs = { 
 lolhuman: { url: 'https://api.lolhuman.xyz/api', key: 'GataDiosV3' },
@@ -76,7 +76,7 @@ vreden: { url: 'https://api.vreden.web.id/api', key: null },
 fgmods: { url: 'https://api.fgmods.xyz/api', key: 'elrebelde21' },
 popcat: { url: 'https://api.popcat.xyz', key: null }
 }
-// 💌------------------------------------------💌
+// 🚀------------------------------------------🚀
 
 
 
@@ -93,28 +93,21 @@ global.APIKeys = {
 
 }
 
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 
 
-// Bot Images 
-global.imagen1 = fs.readFileSync("./lib/source/menus/img1.jpg")
-global.imagen2 = fs.readFileSync("./lib/source/menus/img2.jpg")
-//💌------------------------------------------💌
+
+//🚀------------------------------------------🚀
 
 
 
-global.imag1 = fs.readFileSync("./lib/source/prn.png")
-global.imag2 = fs.readFileSync("./lib/source/prn1.png")
-global.imag3 = fs.readFileSync("./lib/source/prn2.jpg")
-
-global.pimg = [imag1, imag2, imag3]
 
 
 
 // Randome
-global.loftImg = [imagen1, imagen2]
-//💌------------------------------------------💌
+
+//🚀------------------------------------------🚀
 
 
 
@@ -122,14 +115,14 @@ global.loftImg = [imagen1, imagen2]
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 
 
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️ LOFTXMD 🛡️'
+global.loftxmd = '🛡️ LOFTXMD 🛡️'
 global.packname = process.env.PACK_NAME
 global.author = 'loft' 
 global.loftig = 'https://www.instagram.com' 
@@ -139,7 +132,7 @@ global.Loftsc = 'https://github.com/loftxmd23/LofT-xmd-'
 global.loftxmdyt = 'https://youtube.com/'
 global.loftlog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./lib/source/loft.png')
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 
 
@@ -154,7 +147,7 @@ global.xmoji = '🌀'
 global.multiplier = 69 
 global.maxwarn = '2' 
 global.eror = '```404 error```'
-//💌------------------------------------------💌
+//🚀------------------------------------------🚀
 
 
 dotenv.config()
@@ -172,7 +165,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
         global.owner.push(owner);
     }
 }
-const defaultOwner = ["639129985130", "Prince Developer💫", true];
+const defaultOwner = ["639129985130", "Loft xmd", true];
 global.owner.push(defaultOwner);
 console.log("Global Owner List:", global.owner);
 console.log("Global Owner List:", global.owner);
