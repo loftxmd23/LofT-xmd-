@@ -25,8 +25,7 @@
 
 ## 👩‍💻 **SESSION ID**
 
-[![PAIR CODES](https://img.shields.io/badge/_PAIR_CODE-E6E6FA?style=for-the-badge&logo=render)](https://shortsession.onrender.com)
-
+[![PAIR CODES]
 
 
 ## 🚀 **DEPLOYMENT**  
