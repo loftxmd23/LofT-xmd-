@@ -27,6 +27,11 @@
 
 
 
+<p align="center">
+  <a href="https://loft-xmd.onrender.com">
+    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=loft" width="220" height="38.45"/>
+  </a>
+</p  
 
 
 
