@@ -28,6 +28,11 @@
 
 
 
+    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=loft" width="220" height="38.45"/>
+  </a>
+</p  
+
+
 ## 🚀 **DEPLOYMENT**  
 <div align="center" style="margin: 20px 0;">
   <a href="https://gd-sdeploy.vercel.app/">
