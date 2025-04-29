@@ -25,7 +25,7 @@
 
 ## 👩‍💻 **SESSION ID**
 
-[![PAIR CODES]
+
 
 
 ## 🚀 **DEPLOYMENT**  
