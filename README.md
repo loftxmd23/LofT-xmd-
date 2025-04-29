@@ -28,7 +28,7 @@
 
 
 
-    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=loft" width="220" height="38.45"/>
+<img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-neonred?style=for-the-badge&logo=loft" width="220" height="38.45"/>
   </a>
 </p  
 
